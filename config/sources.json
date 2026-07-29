@@ -1,0 +1,32 @@
+[
+  {
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "weight": 1.0,
+    "official": true
+  },
+  {
+    "name": "Google AI",
+    "url": "https://blog.google/technology/ai/rss/",
+    "weight": 0.95,
+    "official": true
+  },
+  {
+    "name": "GitHub Changelog",
+    "url": "https://github.blog/changelog/feed/",
+    "weight": 0.9,
+    "official": true
+  },
+  {
+    "name": "Cloudflare Blog",
+    "url": "https://blog.cloudflare.com/rss/",
+    "weight": 0.85,
+    "official": true
+  },
+  {
+    "name": "Mozilla Hacks",
+    "url": "https://hacks.mozilla.org/feed/",
+    "weight": 0.75,
+    "official": true
+  }
+]
