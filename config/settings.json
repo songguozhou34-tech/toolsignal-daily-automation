@@ -1,0 +1,44 @@
+{
+  "brand": "ToolSignal Daily",
+  "tagline": "Practical AI tool updates for small teams",
+  "language": "en",
+  "timezone": "Asia/Shanghai",
+  "max_items": 5,
+  "lookback_hours": 72,
+  "minimum_sources": 3,
+  "minimum_unique_domains": 2,
+  "minimum_words": 650,
+  "keywords": [
+    "ai",
+    "artificial intelligence",
+    "automation",
+    "agent",
+    "api",
+    "productivity",
+    "small business",
+    "workflow",
+    "developer",
+    "open source",
+    "security",
+    "analytics"
+  ],
+  "excluded_topics": [
+    "election",
+    "war",
+    "armed conflict",
+    "medical diagnosis",
+    "investment advice",
+    "stock prediction",
+    "cryptocurrency prediction",
+    "celebrity gossip",
+    "government interference",
+    "natural disaster"
+  ],
+  "call_to_action": "Follow ToolSignal Daily for concise, source-linked AI tool updates for small teams.",
+  "publish": {
+    "blogger": true,
+    "bluesky": true,
+    "threads": true,
+    "pinterest": true
+  }
+}
