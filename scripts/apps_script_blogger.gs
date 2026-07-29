@@ -50,9 +50,9 @@ function installDailyTrigger() {
   ScriptApp.newTrigger('syncLatestToBlogger')
     .timeBased()
     .everyDays(1)
-    .atHour(2)
+    .atHour(10)
     .create();
-  console.log('Daily trigger installed for the 02:00 Asia/Shanghai window.');
+  console.log('Daily trigger installed for the 10:00 Asia/Shanghai window.');
 }
 
 function decodeHtml_(value) {
