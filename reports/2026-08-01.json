@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-01",
+  "status": "completed",
+  "metrics": {
+    "fetched": 1174,
+    "qualified": 20,
+    "selected": 5
+  },
+  "article": {
+    "title": "AI Tool Pulse — 2026-08-01: Advancing responsible AI across Europe",
+    "provider": "rules",
+    "slug": "2026-08-01-ai-tool-pulse-2026-08-01-advancing-responsible-ai-across-europe"
+  },
+  "quality": {
+    "pass": false,
+    "reasons": [
+      "rules_mode_requires_editorial_review"
+    ],
+    "word_count": 889,
+    "source_count": 5,
+    "unique_domains": 3,
+    "source_links": 5
+  },
+  "publishing": {
+    "blogger": {
+      "status": "skipped",
+      "reason": "missing:client_id,client_secret,refresh_token"
+    },
+    "bluesky": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    },
+    "threads": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    },
+    "pinterest": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    }
+  },
+  "source_errors": [],
+  "revenue_usd": 0,
+  "report_email": {
+    "status": "skipped",
+    "reason": "missing_smtp_credentials"
+  }
+}
