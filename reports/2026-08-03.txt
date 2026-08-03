@@ -1,0 +1,22 @@
+ToolSignal Daily 每日经营日报｜2026-08-03
+
+抓取条目：1175
+合格候选：9
+采用来源：5
+文章来源：rules
+文章字数：893
+质量检查：未通过
+质量原因：rules_mode_requires_editorial_review
+
+发布状态：
+- blogger: skipped missing:client_id,client_secret,refresh_token
+- bluesky: skipped dry_run_or_quality_gate
+- threads: skipped dry_run_or_quality_gate
+- pinterest: skipped dry_run_or_quality_gate
+
+数据源异常：0
+收入：0（尚未接入并通过 AdSense）
+今日优化：自动去重、来源多样性、禁止高风险主题、最低字数与来源链接检查。
+下一步：连接 Blogger，审核首批草稿质量，再开启低风险内容自动公开发布。
+
+说明：没有编造流量、收入或转化数据。
