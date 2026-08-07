@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-07",
+  "status": "completed",
+  "metrics": {
+    "fetched": 1183,
+    "qualified": 29,
+    "selected": 5
+  },
+  "article": {
+    "title": "AI Tool Pulse — 2026-08-07: Give any website a WebMCP interface",
+    "provider": "rules",
+    "slug": "2026-08-07-ai-tool-pulse-2026-08-07-give-any-website-a-webmcp-interface"
+  },
+  "quality": {
+    "pass": false,
+    "reasons": [
+      "rules_mode_requires_editorial_review"
+    ],
+    "word_count": 906,
+    "source_count": 5,
+    "unique_domains": 3,
+    "source_links": 5
+  },
+  "publishing": {
+    "blogger": {
+      "status": "skipped",
+      "reason": "missing:client_id,client_secret,refresh_token"
+    },
+    "bluesky": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    },
+    "threads": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    },
+    "pinterest": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    }
+  },
+  "source_errors": [],
+  "revenue_usd": 0,
+  "report_email": {
+    "status": "skipped",
+    "reason": "missing_smtp_credentials"
+  }
+}
