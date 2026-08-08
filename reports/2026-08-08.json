@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-08",
+  "status": "completed",
+  "metrics": {
+    "fetched": 1185,
+    "qualified": 30,
+    "selected": 5
+  },
+  "article": {
+    "title": "AI Tool Pulse — 2026-08-08: Copilot usage metrics API adds agent app activity",
+    "provider": "rules",
+    "slug": "2026-08-08-ai-tool-pulse-2026-08-08-copilot-usage-metrics-api-adds-agent-app-activi"
+  },
+  "quality": {
+    "pass": false,
+    "reasons": [
+      "rules_mode_requires_editorial_review"
+    ],
+    "word_count": 893,
+    "source_count": 5,
+    "unique_domains": 3,
+    "source_links": 5
+  },
+  "publishing": {
+    "blogger": {
+      "status": "skipped",
+      "reason": "missing:client_id,client_secret,refresh_token"
+    },
+    "bluesky": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    },
+    "threads": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    },
+    "pinterest": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    }
+  },
+  "source_errors": [],
+  "revenue_usd": 0,
+  "report_email": {
+    "status": "skipped",
+    "reason": "missing_smtp_credentials"
+  }
+}
