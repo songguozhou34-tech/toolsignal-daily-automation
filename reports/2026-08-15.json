@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-15",
+  "status": "completed",
+  "metrics": {
+    "fetched": 1199,
+    "qualified": 15,
+    "selected": 5
+  },
+  "article": {
+    "title": "AI Tool Pulse — 2026-08-15: Grok 4.6 is now available in GitHub Copilot",
+    "provider": "rules",
+    "slug": "2026-08-15-ai-tool-pulse-2026-08-15-grok-4-6-is-now-available-in-github-copilot"
+  },
+  "quality": {
+    "pass": false,
+    "reasons": [
+      "rules_mode_requires_editorial_review"
+    ],
+    "word_count": 916,
+    "source_count": 5,
+    "unique_domains": 3,
+    "source_links": 5
+  },
+  "publishing": {
+    "blogger": {
+      "status": "skipped",
+      "reason": "missing:client_id,client_secret,refresh_token"
+    },
+    "bluesky": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    },
+    "threads": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    },
+    "pinterest": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    }
+  },
+  "source_errors": [],
+  "revenue_usd": 0,
+  "report_email": {
+    "status": "skipped",
+    "reason": "missing_smtp_credentials"
+  }
+}
