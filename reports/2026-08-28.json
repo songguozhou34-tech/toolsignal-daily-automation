@@ -1,0 +1,48 @@
+{
+  "date": "2026-08-28",
+  "status": "completed",
+  "metrics": {
+    "fetched": 1226,
+    "qualified": 18,
+    "selected": 5
+  },
+  "article": {
+    "title": "AI Tool Pulse — 2026-08-28: Expanding OpenAI’s presence in Brazil",
+    "provider": "rules",
+    "slug": "2026-08-28-ai-tool-pulse-2026-08-28-expanding-openai-s-presence-in-brazil"
+  },
+  "quality": {
+    "pass": false,
+    "reasons": [
+      "rules_mode_requires_editorial_review"
+    ],
+    "word_count": 896,
+    "source_count": 5,
+    "unique_domains": 3,
+    "source_links": 5
+  },
+  "publishing": {
+    "blogger": {
+      "status": "skipped",
+      "reason": "missing:client_id,client_secret,refresh_token"
+    },
+    "bluesky": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    },
+    "threads": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    },
+    "pinterest": {
+      "status": "skipped",
+      "reason": "dry_run_or_quality_gate"
+    }
+  },
+  "source_errors": [],
+  "revenue_usd": 0,
+  "report_email": {
+    "status": "skipped",
+    "reason": "missing_smtp_credentials"
+  }
+}
